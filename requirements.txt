@@ -1,0 +1,4 @@
+sklearn_crfsuite
+rasa-core
+rasa-nlu
+  
